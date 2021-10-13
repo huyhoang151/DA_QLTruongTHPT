@@ -1,0 +1,12 @@
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\bin\Debug\DAL.dll
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\bin\Debug\DAL.pdb
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\obj\Debug\DAL.dll
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\obj\Debug\DAL.pdb
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\bin\Debug\DAL.dll.config
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\bin\Debug\DAL.dll.config
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\bin\Debug\DAL.dll
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\bin\Debug\DAL.pdb
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\obj\Debug\DAL.dll
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\obj\Debug\DAL.pdb
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

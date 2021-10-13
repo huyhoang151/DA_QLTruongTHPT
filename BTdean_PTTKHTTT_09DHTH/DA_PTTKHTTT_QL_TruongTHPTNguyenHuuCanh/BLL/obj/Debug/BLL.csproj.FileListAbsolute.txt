@@ -1,0 +1,14 @@
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\BLL.dll
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\BLL.pdb
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\DAL.dll
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\DAL.pdb
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\obj\Debug\BLL.dll
+D:\PhanTichThietKeHTTT\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\obj\Debug\BLL.pdb
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\BLL.dll
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\BLL.pdb
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\DAL.dll
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\bin\Debug\DAL.pdb
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\obj\Debug\BLL.dll
+D:\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\DA_PTTKHTTT_QL_TruongTHPTNguyenHuuCanh\BLL\obj\Debug\BLL.pdb
